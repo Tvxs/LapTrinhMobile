@@ -1,4 +1,4 @@
-import '../models/sinh_vien.dart';
+import 'sinh_vien.dart';
 
 // Lop LopHoc
 class LopHoc{
